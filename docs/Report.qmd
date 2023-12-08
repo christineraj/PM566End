@@ -33,7 +33,7 @@ There is a moderate negative correlation between family planning and neonatal mo
 
 ![](density%20map%20neonatal.png)
 
-![](Screen Shot 2023-12-07 at 6.45.03 PM.png)
+![](Screen%20Shot%202023-12-07%20at%206.45.03%20PM.png)
 
 ![](neonatal.png)
 
@@ -41,15 +41,15 @@ There is a moderate negative correlation between family planning and neonatal mo
 
 ![](5yeaer.png)
 
-![](newplot (3).png)
+![](newplot%20(3).png)
 
-![](adolescent 1519.png)
+![](adolescent%201519.png)
 
-![](newplot (4).png)
+![](newplot%20(4).png)
 
-![](adolescent 1014.png)
+![](adolescent%201014.png)
 
-![](newplot (1).png)
+![](newplot%20(1).png)
 
 ## **Conclusion**
 
