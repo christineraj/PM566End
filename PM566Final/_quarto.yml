@@ -1,0 +1,25 @@
+project:
+  type: website
+<<<<<<< HEAD
+output_dir: docs
+=======
+  output_dir: docs
+>>>>>>> 4dd25d2f2eb2ac4721d1352a51d170ce7e2ef1be
+
+website:
+  title: "PM566Final"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - SupplementalInformation.qmd
+      - Report.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

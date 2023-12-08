@@ -1,0 +1,5 @@
+"0","#getwd()"
+"0","setwd(""/Users/christineraj/Documents/PM566/PM566F/PM566F"")"
+"2","Error in setwd(""/Users/christineraj/Documents/PM566/PM566F/PM566F"") : 
+  cannot change working directory
+"

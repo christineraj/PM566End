@@ -1,0 +1,2 @@
+[2,"\n"]
+[1,"\u001B[91mERROR: YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (_quarto.yml, 4:11)\n3: \u001B[34m<<<<<<< HEAD\u001B[91m\n4: \u001B[34moutput_dir: docs\u001B[91m\n            ~~\n5: \u001B[34m=======\u001B[91m\u001B[39m\n"]
